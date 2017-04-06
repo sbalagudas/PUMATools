@@ -1,0 +1,20 @@
+##NBC LOOP
+Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml
+        LTE00094060_Peak_User_Throughput_FDD_DUS41_-_UDP_DL2x2_20MHz_CAT4
+        LTE00243687_Peak_User_Throughput_FDD_DUS41_-_UDP_UL1x2_20MHz_CAT3
+
+##SOCKING
+Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-RoundTripTimeRrcConnected.xml
+        LTE00094047_Latency_FDD_DUS41_1UE_Ping1436-UL1x2_10MHz
+
+Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml
+        LTE00106537_UETPT_DUS41_TDD_UDP_DL_CAT4_20Mhz_SF1_TM3_SSF7_CFI0
+        LTE00098877_Peak_User_Throughput_TDD_DUS41_-_1UE_UDP_DL2x2_20MHz_CAT3_CFG17
+        LTE00100517_Peak_User_Throughput_TDD_DUS41_-_1UE_TCP_DL2x2_20MHz_CAT4_CFG17
+
+##SOCKING BUT HAVE ISSUE
+Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-CellCapacity20Mhz.xml
+        LTE00109027_CELLLTPT_DUS41_TDD_UDP_DL_CAT4_20Mhz
+Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-CellCapacity20Mhz.xml
+        LTE00166265_Cell_Capacity_FDD_DUS41-1x4UE_UDP_DL2x2_20MHz_CAT4
+
