@@ -2,14 +2,15 @@
 
 import os
 import re
-
-import readCaseFile as rf
+parentDir = os.path.dirname(os.path.dirname(os.path.abspath("__file__")))
+sys.path.insert(0,parentDir)
+from Common import readCaseFile as rf
 
 #the file will get the case execution details from TGF and draw them in to a table.
 #the latest tgjob id will be selected and checking from which it is triggered.
 class CheckCaseDetail(object):
     def __init__(self):
-        self.readFileIns = rf.ReadFile()
+        self.readFileIns = rf.ReadFile(os.getcwd()+os.sep+caseFile.txt)
         self.suiteExecutionDetail = {}
         self.caseDict = self.readFileIns.readFileAndGetCaseDict()
 
