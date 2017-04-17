@@ -2,14 +2,14 @@
 
 #set TIMEFORMAT="%Y-%m-%d %H:%M:%S"
 set CURDIR=`pwd`
-set LOGDIR="${CURDIR}/caseLog.log"
+set LOGDIR="${CURDIR}/soak.log"
 
 while (1)
     echo "==========================" >> ${LOGDIR}
     echo `date +"%Y-%m-%d %H:%M:%S"` >> ${LOGDIR}
     echo "==========================" >> ${LOGDIR}    
-    nohup /usr/bin/python checkCaseDetailToFile.py >> ${LOGDIR} &
-    sleep 100 
+    nohup /usr/bin/python checkNBVSoakCase.py >> ${LOGDIR} &
+    sleep 86400 
 end
 
 

@@ -1,0 +1,1833 @@
+==========================
+2017-04-17 11:38:31
+==========================
+checking suite :  suite /home/eralalu/git/msran-test-performance_radioTest/src/main/resources/suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | wc -l 
+actual : 20 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285419'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285420'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285414'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285415'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | wc -l 
+actual : 20 | passNo : 4
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00286455'
+upNameList :  ['CXP9024418_6-R12A105', 'CXP9024418_10-R2A112', 'CXP9024418_10-R2A87', 'CXP9024418_10-R2A109']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285259'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | wc -l 
+actual : 12 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285260'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286400'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286401'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241721'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241717'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261093'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261094'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00205780'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00268679'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261091'
+upNameList :  []
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261092'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267852'
+upNameList :  ['']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267853'
+upNameList :  ['']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00097520'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259035'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255096'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | wc -l 
+actual : 20 | passNo : 6
+caseRawLogCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125230'
+upNameList :  ['CXP102051_26-R17AB', 'CXP102051_26-R15FF', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R15FX']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | wc -l 
+actual : 6 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00254621'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221989'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221990'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | wc -l 
+actual : 20 | passNo : 9
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125229'
+upNameList :  ['CXP102051_26-R15CZ', 'CXP102051_26-R17AB', 'CXP102051_26-R17AZ', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R17F', 'CXP102051_26-R15CH', 'CXP102051_26-R17AT']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | wc -l 
+actual : 14 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00255778'
+upNameList :  ['CXP102051_26-R23SL']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 18 | passNo : 16
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  ['CXP102051_27-R12A35', 'CXP102051_27-R11A205', 'CXP102051_27-R12A76', 'CXP102051_27-R12A10', 'CXP102051_27-R11A175', 'CXP102051_27-R11A173', 'CXP102051_27-R11A219', 'CXP102051_27-R12A121', 'CXP102051_27-R12A61', 'CXP102051_27-R12A140', 'CXP102051_27-R12A151', 'CXP102051_27-R12A96']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274566'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274568'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | wc -l 
+actual : 16 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274569'
+upNameList :  ['CXP102051_26-R25AJ']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | wc -l 
+actual : 13 | passNo : 13
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00281057'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R11A114', 'CXP9024418_4-R18JA', 'CXP9024418_4-R18JD', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | wc -l 
+actual : 11 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00239628'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_6-R10A20', 'CXP9024418_4-R18JD', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | wc -l 
+actual : 10 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00240741'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | wc -l 
+actual : 14 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00256715'
+upNameList :  ['CXP9024418_4-R20AF', 'CXP9024418_5-R19AL']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00143963'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00201483'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00260562'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | wc -l 
+actual : 11 | passNo : 5
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00248799'
+upNameList :  ['CXP102051_27-R11A175', 'CXP102051_27-R11A118']
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | wc -l 
+actual : 18 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00249638'
+upNameList :  []
+---------------------------------------------------------------------------------------------------------
+ |          caseName  |       TotalCaseNo  |            PassNo  |         Pass Rate  |         UP Number |
+ |       LTE00255779  |                18  |                16  |              89.0  |                12 |
+ |       LTE00285419  |                20  |                 0  |                 0  |                 0 |
+ |       LTE00285420  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285414  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285415  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00248799  |                11  |                 5  |              45.0  |                 2 |
+ |       LTE00249638  |                18  |                 0  |                 0  |                 0 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE00286455  |                20  |                 4  |              20.0  |                 4 |
+ |       LTE00259033  |                 6  |                 3  |              50.0  |                 3 |
+ |       LTE00259034  |                 6  |                 1  |              17.0  |                 1 |
+ |       LTE00259035  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00125230  |                20  |                 6  |              30.0  |                 6 |
+ |       LTE00286400  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00286401  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00125229  |                20  |                 9  |              45.0  |                 9 |
+ |       LTE00261091  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00261092  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255779  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241721  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241717  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00267852  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00267853  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00274566  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274568  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274569  |                16  |                 1  |               6.0  |                 1 |
+ |       LTE00255092  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255095  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255096  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255778  |                14  |                 1  |               7.0  |                 1 |
+ |       LTE00221989  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00221990  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00254621  |                 6  |                 0  |                 0  |                 0 |
+ |       LTE00143963  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00201483  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00260562  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00097520  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285259  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00285260  |                12  |                 0  |                 0  |                 0 |
+ |       LTE00281057  |                13  |                13  |             100.0  |                 7 |
+ |       LTE00239628  |                11  |                 6  |              55.0  |                 4 |
+ |       LTE00240741  |                10  |                 6  |              60.0  |                 4 |
+ |       LTE00256715  |                14  |                 2  |              14.0  |                 2 |
+ |       LTE00261093  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00261094  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00205780  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00268679  |                 5  |                 0  |                 0  |                 0 |
+---------------------------------------------------------------------------------------------------------
+==========================
+2017-04-17 11:41:31
+==========================
+checking suite :  suite /home/eralalu/git/msran-test-performance_radioTest/src/main/resources/suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | wc -l 
+actual : 20 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285419'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285420'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285414'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285415'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | wc -l 
+actual : 20 | passNo : 4
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00286455'
+upNameList :  ['CXP9024418_6-R12A105', 'CXP9024418_10-R2A112', 'CXP9024418_10-R2A87', 'CXP9024418_10-R2A109']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285259'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | wc -l 
+actual : 12 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285260'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286400'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286401'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241721'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241717'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261093'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261094'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00205780'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00268679'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261091'
+upNameList :  []
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261092'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267852'
+upNameList :  ['']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267853'
+upNameList :  ['']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00097520'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259035'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255096'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | wc -l 
+actual : 20 | passNo : 6
+caseRawLogCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125230'
+upNameList :  ['CXP102051_26-R17AB', 'CXP102051_26-R15FF', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R15FX']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | wc -l 
+actual : 6 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00254621'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221989'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221990'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | wc -l 
+actual : 20 | passNo : 9
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125229'
+upNameList :  ['CXP102051_26-R15CZ', 'CXP102051_26-R17AB', 'CXP102051_26-R17AZ', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R17F', 'CXP102051_26-R15CH', 'CXP102051_26-R17AT']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | wc -l 
+actual : 14 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00255778'
+upNameList :  ['CXP102051_26-R23SL']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 18 | passNo : 16
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  ['CXP102051_27-R12A35', 'CXP102051_27-R11A205', 'CXP102051_27-R12A76', 'CXP102051_27-R12A10', 'CXP102051_27-R11A175', 'CXP102051_27-R11A173', 'CXP102051_27-R11A219', 'CXP102051_27-R12A121', 'CXP102051_27-R12A61', 'CXP102051_27-R12A140', 'CXP102051_27-R12A151', 'CXP102051_27-R12A96']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274566'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274568'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | wc -l 
+actual : 16 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274569'
+upNameList :  ['CXP102051_26-R25AJ']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | wc -l 
+actual : 13 | passNo : 13
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00281057'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R11A114', 'CXP9024418_4-R18JA', 'CXP9024418_4-R18JD', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | wc -l 
+actual : 11 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00239628'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_6-R10A20', 'CXP9024418_4-R18JD', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | wc -l 
+actual : 10 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00240741'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | wc -l 
+actual : 14 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00256715'
+upNameList :  ['CXP9024418_4-R20AF', 'CXP9024418_5-R19AL']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00143963'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00201483'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00260562'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | wc -l 
+actual : 11 | passNo : 5
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00248799'
+upNameList :  ['CXP102051_27-R11A175', 'CXP102051_27-R11A118']
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | wc -l 
+actual : 18 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00249638'
+upNameList :  []
+---------------------------------------------------------------------------------------------------------
+ |          caseName  |       TotalCaseNo  |            PassNo  |         Pass Rate  |         UP Number |
+ |       LTE00255779  |                18  |                16  |              89.0  |                12 |
+ |       LTE00285419  |                20  |                 0  |                 0  |                 0 |
+ |       LTE00285420  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285414  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285415  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00248799  |                11  |                 5  |              45.0  |                 2 |
+ |       LTE00249638  |                18  |                 0  |                 0  |                 0 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE00286455  |                20  |                 4  |              20.0  |                 4 |
+ |       LTE00259033  |                 6  |                 3  |              50.0  |                 3 |
+ |       LTE00259034  |                 6  |                 1  |              17.0  |                 1 |
+ |       LTE00259035  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00125230  |                20  |                 6  |              30.0  |                 6 |
+ |       LTE00286400  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00286401  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00125229  |                20  |                 9  |              45.0  |                 9 |
+ |       LTE00261091  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00261092  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255779  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241721  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241717  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00267852  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00267853  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00274566  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274568  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274569  |                16  |                 1  |               6.0  |                 1 |
+ |       LTE00255092  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255095  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255096  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255778  |                14  |                 1  |               7.0  |                 1 |
+ |       LTE00221989  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00221990  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00254621  |                 6  |                 0  |                 0  |                 0 |
+ |       LTE00143963  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00201483  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00260562  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00097520  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285259  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00285260  |                12  |                 0  |                 0  |                 0 |
+ |       LTE00281057  |                13  |                13  |             100.0  |                 7 |
+ |       LTE00239628  |                11  |                 6  |              55.0  |                 4 |
+ |       LTE00240741  |                10  |                 6  |              60.0  |                 4 |
+ |       LTE00256715  |                14  |                 2  |              14.0  |                 2 |
+ |       LTE00261093  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00261094  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00205780  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00268679  |                 5  |                 0  |                 0  |                 0 |
+---------------------------------------------------------------------------------------------------------
+==========================
+2017-04-17 11:44:31
+==========================
+checking suite :  suite /home/eralalu/git/msran-test-performance_radioTest/src/main/resources/suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | wc -l 
+actual : 20 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285419'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285420'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285414'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285415'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | wc -l 
+actual : 20 | passNo : 4
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00286455'
+upNameList :  ['CXP9024418_6-R12A105', 'CXP9024418_10-R2A112', 'CXP9024418_10-R2A87', 'CXP9024418_10-R2A109']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285259'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | wc -l 
+actual : 12 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285260'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286400'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286401'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241721'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241717'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261093'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261094'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00205780'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00268679'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261091'
+upNameList :  []
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261092'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267852'
+upNameList :  ['']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267853'
+upNameList :  ['']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00097520'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259035'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255096'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | wc -l 
+actual : 20 | passNo : 6
+caseRawLogCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125230'
+upNameList :  ['CXP102051_26-R17AB', 'CXP102051_26-R15FF', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R15FX']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | wc -l 
+actual : 6 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00254621'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221989'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221990'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | wc -l 
+actual : 20 | passNo : 9
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125229'
+upNameList :  ['CXP102051_26-R15CZ', 'CXP102051_26-R17AB', 'CXP102051_26-R17AZ', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R17F', 'CXP102051_26-R15CH', 'CXP102051_26-R17AT']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | wc -l 
+actual : 14 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00255778'
+upNameList :  ['CXP102051_26-R23SL']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 18 | passNo : 16
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  ['CXP102051_27-R12A35', 'CXP102051_27-R11A205', 'CXP102051_27-R12A76', 'CXP102051_27-R12A10', 'CXP102051_27-R11A175', 'CXP102051_27-R11A173', 'CXP102051_27-R11A219', 'CXP102051_27-R12A121', 'CXP102051_27-R12A61', 'CXP102051_27-R12A140', 'CXP102051_27-R12A151', 'CXP102051_27-R12A96']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274566'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274568'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | wc -l 
+actual : 16 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274569'
+upNameList :  ['CXP102051_26-R25AJ']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | wc -l 
+actual : 13 | passNo : 13
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00281057'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R11A114', 'CXP9024418_4-R18JA', 'CXP9024418_4-R18JD', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | wc -l 
+actual : 11 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00239628'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_6-R10A20', 'CXP9024418_4-R18JD', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | wc -l 
+actual : 10 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00240741'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | wc -l 
+actual : 14 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00256715'
+upNameList :  ['CXP9024418_4-R20AF', 'CXP9024418_5-R19AL']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00143963'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00201483'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00260562'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | wc -l 
+actual : 11 | passNo : 5
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00248799'
+upNameList :  ['CXP102051_27-R11A175', 'CXP102051_27-R11A118']
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | wc -l 
+actual : 18 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00249638'
+upNameList :  []
+---------------------------------------------------------------------------------------------------------
+ |          caseName  |       TotalCaseNo  |            PassNo  |         Pass Rate  |         UP Number |
+ |       LTE00255779  |                18  |                16  |              89.0  |                12 |
+ |       LTE00285419  |                20  |                 0  |                 0  |                 0 |
+ |       LTE00285420  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285414  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285415  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00248799  |                11  |                 5  |              45.0  |                 2 |
+ |       LTE00249638  |                18  |                 0  |                 0  |                 0 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE00286455  |                20  |                 4  |              20.0  |                 4 |
+ |       LTE00259033  |                 6  |                 3  |              50.0  |                 3 |
+ |       LTE00259034  |                 6  |                 1  |              17.0  |                 1 |
+ |       LTE00259035  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00125230  |                20  |                 6  |              30.0  |                 6 |
+ |       LTE00286400  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00286401  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00125229  |                20  |                 9  |              45.0  |                 9 |
+ |       LTE00261091  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00261092  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255779  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241721  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241717  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00267852  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00267853  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00274566  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274568  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274569  |                16  |                 1  |               6.0  |                 1 |
+ |       LTE00255092  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255095  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255096  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255778  |                14  |                 1  |               7.0  |                 1 |
+ |       LTE00221989  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00221990  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00254621  |                 6  |                 0  |                 0  |                 0 |
+ |       LTE00143963  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00201483  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00260562  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00097520  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285259  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00285260  |                12  |                 0  |                 0  |                 0 |
+ |       LTE00281057  |                13  |                13  |             100.0  |                 7 |
+ |       LTE00239628  |                11  |                 6  |              55.0  |                 4 |
+ |       LTE00240741  |                10  |                 6  |              60.0  |                 4 |
+ |       LTE00256715  |                14  |                 2  |              14.0  |                 2 |
+ |       LTE00261093  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00261094  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00205780  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00268679  |                 5  |                 0  |                 0  |                 0 |
+---------------------------------------------------------------------------------------------------------
+==========================
+2017-04-17 11:47:31
+==========================
+checking suite :  suite /home/eralalu/git/msran-test-performance_radioTest/src/main/resources/suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | wc -l 
+actual : 20 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285419'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285420'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285414'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285415'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | wc -l 
+actual : 20 | passNo : 4
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00286455'
+upNameList :  ['CXP9024418_6-R12A105', 'CXP9024418_10-R2A112', 'CXP9024418_10-R2A87', 'CXP9024418_10-R2A109']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285259'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | wc -l 
+actual : 12 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285260'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286400'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286401'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241721'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241717'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261093'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261094'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00205780'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00268679'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261091'
+upNameList :  []
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261092'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267852'
+upNameList :  ['']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267853'
+upNameList :  ['']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00097520'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259035'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255096'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | wc -l 
+actual : 20 | passNo : 6
+caseRawLogCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125230'
+upNameList :  ['CXP102051_26-R17AB', 'CXP102051_26-R15FF', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R15FX']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | wc -l 
+actual : 6 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00254621'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221989'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221990'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | wc -l 
+actual : 20 | passNo : 9
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125229'
+upNameList :  ['CXP102051_26-R15CZ', 'CXP102051_26-R17AB', 'CXP102051_26-R17AZ', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R17F', 'CXP102051_26-R15CH', 'CXP102051_26-R17AT']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | wc -l 
+actual : 14 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00255778'
+upNameList :  ['CXP102051_26-R23SL']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 18 | passNo : 16
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  ['CXP102051_27-R12A35', 'CXP102051_27-R11A205', 'CXP102051_27-R12A76', 'CXP102051_27-R12A10', 'CXP102051_27-R11A175', 'CXP102051_27-R11A173', 'CXP102051_27-R11A219', 'CXP102051_27-R12A121', 'CXP102051_27-R12A61', 'CXP102051_27-R12A140', 'CXP102051_27-R12A151', 'CXP102051_27-R12A96']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274566'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274568'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | wc -l 
+actual : 16 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274569'
+upNameList :  ['CXP102051_26-R25AJ']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | wc -l 
+actual : 13 | passNo : 13
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00281057'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R11A114', 'CXP9024418_4-R18JA', 'CXP9024418_4-R18JD', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | wc -l 
+actual : 11 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00239628'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_6-R10A20', 'CXP9024418_4-R18JD', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | wc -l 
+actual : 10 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00240741'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | wc -l 
+actual : 14 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00256715'
+upNameList :  ['CXP9024418_4-R20AF', 'CXP9024418_5-R19AL']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00143963'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00201483'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00260562'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | wc -l 
+actual : 11 | passNo : 5
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00248799'
+upNameList :  ['CXP102051_27-R11A175', 'CXP102051_27-R11A118']
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | wc -l 
+actual : 18 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00249638'
+upNameList :  []
+---------------------------------------------------------------------------------------------------------
+ |          caseName  |       TotalCaseNo  |            PassNo  |         Pass Rate  |         UP Number |
+ |       LTE00255779  |                18  |                16  |              89.0  |                12 |
+ |       LTE00285419  |                20  |                 0  |                 0  |                 0 |
+ |       LTE00285420  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285414  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285415  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00248799  |                11  |                 5  |              45.0  |                 2 |
+ |       LTE00249638  |                18  |                 0  |                 0  |                 0 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE00286455  |                20  |                 4  |              20.0  |                 4 |
+ |       LTE00259033  |                 6  |                 3  |              50.0  |                 3 |
+ |       LTE00259034  |                 6  |                 1  |              17.0  |                 1 |
+ |       LTE00259035  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00125230  |                20  |                 6  |              30.0  |                 6 |
+ |       LTE00286400  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00286401  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00125229  |                20  |                 9  |              45.0  |                 9 |
+ |       LTE00261091  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00261092  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255779  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241721  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241717  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00267852  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00267853  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00274566  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274568  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274569  |                16  |                 1  |               6.0  |                 1 |
+ |       LTE00255092  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255095  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255096  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255778  |                14  |                 1  |               7.0  |                 1 |
+ |       LTE00221989  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00221990  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00254621  |                 6  |                 0  |                 0  |                 0 |
+ |       LTE00143963  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00201483  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00260562  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00097520  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285259  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00285260  |                12  |                 0  |                 0  |                 0 |
+ |       LTE00281057  |                13  |                13  |             100.0  |                 7 |
+ |       LTE00239628  |                11  |                 6  |              55.0  |                 4 |
+ |       LTE00240741  |                10  |                 6  |              60.0  |                 4 |
+ |       LTE00256715  |                14  |                 2  |              14.0  |                 2 |
+ |       LTE00261093  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00261094  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00205780  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00268679  |                 5  |                 0  |                 0  |                 0 |
+---------------------------------------------------------------------------------------------------------
+==========================
+2017-04-17 11:50:31
+==========================
+checking suite :  suite /home/eralalu/git/msran-test-performance_radioTest/src/main/resources/suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285419' | wc -l 
+actual : 20 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285419'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285420' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285420'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285414' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285414'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v  | grep 'LTE00285415' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac_RADIOTEST.xml 20 v | egrep 'CXP|LTE00285415'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v  | grep 'LTE00286455' | wc -l 
+actual : 20 | passNo : 4
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna1x2_ChannelCcn_UeSueReal-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00286455'
+upNameList :  ['CXP9024418_6-R12A105', 'CXP9024418_10-R2A112', 'CXP9024418_10-R2A87', 'CXP9024418_10-R2A109']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285259' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285259'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00285260' | wc -l 
+actual : 12 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna4x4+4x4+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00285260'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286400' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286400'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v  | grep 'LTE00286401' | wc -l 
+actual : 16 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2+2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam4CC-Lac.xml 20 v | egrep 'CXP|LTE00286401'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241721' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241721'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v  | grep 'LTE00241717' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelPropsim_UeSueTm500-Lac.xml 20 v | egrep 'CXP|LTE00241717'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261093' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261093'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261094' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261094'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00205780' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00205780'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00268679' | wc -l 
+actual : 5 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00268679'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+casePassNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v  | grep 'LTE000hando' | wc -l 
+actual : 10 | passNo : 1
+caseRawLogCmd :  tgr suite Dus52_Tdd_AntennaInterEnb_ChannelCcn_UeSue-HandoverInter.xml 20 v | egrep 'CXP|LTE000hando'
+upNameList :  ['CXP9024418_4-R12DG']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261091' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261091'
+upNameList :  []
+casePassNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00261092' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dul20_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00261092'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267852' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267852'
+upNameList :  ['']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v  | grep 'LTE00267853' | wc -l 
+actual : 9 | passNo : 8
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2+2x2_ChannelPropsim_UeSueReal256Qam3CC-Lac.xml 20 v | egrep 'CXP|LTE00267853'
+upNameList :  ['']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00097520' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00097520'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259033' | wc -l 
+actual : 6 | passNo : 3
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259033'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A76', 'CXP9024418_6-R10A105']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259034' | wc -l 
+actual : 6 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259034'
+upNameList :  ['CXP9024418_6-R10A76']
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00259035' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00259035'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255092' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255092'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255095' | wc -l 
+actual : 4 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255095'
+upNameList :  ['CXP9024418_6-R10A55', 'CXP9024418_6-R10A44']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00255096' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00255096'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125230' | wc -l 
+actual : 20 | passNo : 6
+caseRawLogCmd :  tgr suite Dus20_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125230'
+upNameList :  ['CXP102051_26-R17AB', 'CXP102051_26-R15FF', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R15FX']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00254621' | wc -l 
+actual : 6 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00254621'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221989' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221989'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v  | grep 'LTE00221990' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 20 v | egrep 'CXP|LTE00221990'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 0 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-WarmRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v  | grep 'LTE00125229' | wc -l 
+actual : 20 | passNo : 9
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-UserThroughputTcpOptimization20MHz.xml 20 v | egrep 'CXP|LTE00125229'
+upNameList :  ['CXP102051_26-R15CZ', 'CXP102051_26-R17AB', 'CXP102051_26-R17AZ', 'CXP102051_26-R17AL', 'CXP102051_26-R15HE', 'CXP102051_26-R15DN', 'CXP102051_26-R17F', 'CXP102051_26-R15CH', 'CXP102051_26-R17AT']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v  | grep 'LTE00255778' | wc -l 
+actual : 14 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration_12Cell_Configuration.xml 20 v | egrep 'CXP|LTE00255778'
+upNameList :  ['CXP102051_26-R23SL']
+checking suite :  suite suites/msran-test-performance/NodeRestart/Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v  | grep 'LTE00255779' | wc -l 
+actual : 18 | passNo : 16
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2_ChannelNone_UeNone-ColdRestartDuration.xml 20 v | egrep 'CXP|LTE00255779'
+upNameList :  ['CXP102051_27-R12A35', 'CXP102051_27-R11A205', 'CXP102051_27-R12A76', 'CXP102051_27-R12A10', 'CXP102051_27-R11A175', 'CXP102051_27-R11A173', 'CXP102051_27-R11A219', 'CXP102051_27-R12A121', 'CXP102051_27-R12A61', 'CXP102051_27-R12A140', 'CXP102051_27-R12A151', 'CXP102051_27-R12A96']
+checking suite :  suite suites/msran-test-performance/ThroughputTest/Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274566' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274566'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274568' | wc -l 
+actual : 16 | passNo : 2
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274568'
+upNameList :  ['CXP102051_27-R4A339', 'CXP102051_26-R25AJ']
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v  | grep 'LTE00274569' | wc -l 
+actual : 16 | passNo : 1
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelPropsim_UeMueTm500-PeakUserThroughput.xml 20 v | egrep 'CXP|LTE00274569'
+upNameList :  ['CXP102051_26-R25AJ']
+checking suite :  suite suites/msran-test-performance/LacTest/Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00281057' | wc -l 
+actual : 13 | passNo : 13
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00281057'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R11A114', 'CXP9024418_4-R18JA', 'CXP9024418_4-R18JD', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00239628' | wc -l 
+actual : 11 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00239628'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_6-R10A20', 'CXP9024418_4-R18JD', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00240741' | wc -l 
+actual : 10 | passNo : 6
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00240741'
+upNameList :  ['CXP9024418_4-R20AB', 'CXP9024418_4-R20AF', 'CXP9024418_6-R10A20', 'CXP9024418_5-R19AL']
+casePassNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v  | grep 'LTE00256715' | wc -l 
+actual : 14 | passNo : 2
+caseRawLogCmd :  tgr suite Dus52_Tdd_Antenna8x2_ChannelPropsim_UeSueReal-Lac.xml 20 v | egrep 'CXP|LTE00256715'
+upNameList :  ['CXP9024418_4-R20AF', 'CXP9024418_5-R19AL']
+checking suite :  suite suites/msran-test-performance/LacSimTest/Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00143963' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00143963'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00201483' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00201483'
+upNameList :  []
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v  | grep 'LTE00260562' | wc -l 
+actual : 13 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_Fdd_Antenna2x2+2x2_ChannelDirect_UeMueTm500-LacSim.xml 20 v | egrep 'CXP|LTE00260562'
+upNameList :  []
+checking suite :  suite suites/msran-test-performance/LacTest/Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00248799' | wc -l 
+actual : 11 | passNo : 5
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00248799'
+upNameList :  ['CXP102051_27-R11A175', 'CXP102051_27-R11A118']
+casePassNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v  | grep 'LTE00249638' | wc -l 
+actual : 18 | passNo : 0
+divide 0000000000
+caseRawLogCmd :  tgr suite Dus41_FddTdd_Antenna2x2+2x2_ChannelPropsim_UeSueReal2CC_ULCA_MCP_64QAM-Lac.xml 20 v | egrep 'CXP|LTE00249638'
+upNameList :  []
+---------------------------------------------------------------------------------------------------------
+ |          caseName  |       TotalCaseNo  |            PassNo  |         Pass Rate  |         UP Number |
+ |       LTE00255779  |                18  |                16  |              89.0  |                12 |
+ |       LTE00285419  |                20  |                 0  |                 0  |                 0 |
+ |       LTE00285420  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285414  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285415  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00248799  |                11  |                 5  |              45.0  |                 2 |
+ |       LTE00249638  |                18  |                 0  |                 0  |                 0 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE000hando  |                10  |                 1  |              10.0  |                 1 |
+ |       LTE00286455  |                20  |                 4  |              20.0  |                 4 |
+ |       LTE00259033  |                 6  |                 3  |              50.0  |                 3 |
+ |       LTE00259034  |                 6  |                 1  |              17.0  |                 1 |
+ |       LTE00259035  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00125230  |                20  |                 6  |              30.0  |                 6 |
+ |       LTE00286400  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00286401  |                16  |                 0  |                 0  |                 0 |
+ |       LTE00125229  |                20  |                 9  |              45.0  |                 9 |
+ |       LTE00261091  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00261092  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255779  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241721  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00241717  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00267852  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00267853  |                 9  |                 8  |              89.0  |                 1 |
+ |       LTE00274566  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274568  |                16  |                 2  |              13.0  |                 2 |
+ |       LTE00274569  |                16  |                 1  |               6.0  |                 1 |
+ |       LTE00255092  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255095  |                 4  |                 2  |              50.0  |                 2 |
+ |       LTE00255096  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00255778  |                14  |                 1  |               7.0  |                 1 |
+ |       LTE00221989  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00221990  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00254621  |                 6  |                 0  |                 0  |                 0 |
+ |       LTE00143963  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00201483  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00260562  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00097520  |                 0  |                 0  |                 0  |                 0 |
+ |       LTE00285259  |                13  |                 0  |                 0  |                 0 |
+ |       LTE00285260  |                12  |                 0  |                 0  |                 0 |
+ |       LTE00281057  |                13  |                13  |             100.0  |                 7 |
+ |       LTE00239628  |                11  |                 6  |              55.0  |                 4 |
+ |       LTE00240741  |                10  |                 6  |              60.0  |                 4 |
+ |       LTE00256715  |                14  |                 2  |              14.0  |                 2 |
+ |       LTE00261093  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00261094  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00205780  |                 5  |                 0  |                 0  |                 0 |
+ |       LTE00268679  |                 5  |                 0  |                 0  |                 0 |
+---------------------------------------------------------------------------------------------------------
+==========================
+2017-04-17 11:53:31
+==========================

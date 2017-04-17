@@ -46,11 +46,8 @@ class ReadFile(object):
         for eachFile in os.listdir(folderPath):
             fileBaseDir = folderPath+os.sep+eachFile
             if os.path.isfile(fileBaseDir):
-                print "read file : ",fileBaseDir
                 caseResultInOneFile = self.readFileAndGetCaseDict(fileBaseDir)
                 caseFolderResult.append(caseResultInOneFile)
-                print "result :",caseResultInOneFile
-                print "------------------------------------------------"
         return caseFolderResult
 
 if __name__ == "__main__":

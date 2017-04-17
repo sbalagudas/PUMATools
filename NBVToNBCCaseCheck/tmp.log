@@ -1,0 +1,68 @@
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-CellCapacity20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00166265' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-CellCapacity20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00166265' | wc -l 
+caseActuralExecuteNo :  41
+casePassNo :  31
+NBCVResult :  Manual Case
+passRate :  76.0
+---------------------------------------
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-RoundTripTimeRrcConnected.xml 100 v pool=nbc_jcat | grep 'LTE00094047' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-RoundTripTimeRrcConnected.xml 100 v pool=nbc_jcat | grep 'LTE00094047' | wc -l 
+caseActuralExecuteNo :  100
+casePassNo :  99
+NBCVResult :  NBV-test_main
+passRate :  99.0
+---------------------------------------
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00106537' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00106537' | wc -l 
+caseActuralExecuteNo :  79
+casePassNo :  76
+NBCVResult :  NBV-test_main
+passRate :  96.0
+---------------------------------------
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00098877' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00098877' | wc -l 
+caseActuralExecuteNo :  90
+casePassNo :  76
+NBCVResult :  NBV-test_main
+passRate :  84.0
+---------------------------------------
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00100517' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00100517' | wc -l 
+caseActuralExecuteNo :  93
+casePassNo :  77
+NBCVResult :  NBV-test_main
+passRate :  83.0
+---------------------------------------
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00094060' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00094060' | wc -l 
+caseActuralExecuteNo :  99
+casePassNo :  87
+NBCVResult :  BDC-test-JCAT_main
+passRate :  88.0
+---------------------------------------
+casePassNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00243687' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00243687' | wc -l 
+caseActuralExecuteNo :  49
+casePassNo :  35
+NBCVResult :  Manual Case
+passRate :  71.0
+---------------------------------------
+casePassNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-CellCapacity20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00109027' | awk '{print $5}' | grep ok | grep -v nok | wc -l
+caseActuralExecuteNoCmd :  tgr suite Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-CellCapacity20Mhz.xml 100 v pool=nbc_jcat | grep 'LTE00109027' | wc -l 
+caseActuralExecuteNo :  33
+casePassNo :  8
+NBCVResult :  Manual Case
+passRate :  24.0
+---------------------------------------
+suite result :  {'Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-CellCapacity20Mhz.xml': [{'LTE00109027_CELLLTPT_DUS41_TDD_UDP_DL_CAT4_20Mhz': ['LTE00109027', '33', '8', 24.0, 'Manual Case']}], 'Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-CellCapacity20Mhz.xml': [{'LTE00166265_Cell_Capacity_FDD_DUS41-1x4UE_UDP_DL2x2_20MHz_CAT4': ['LTE00166265', '41', '31', 76.0, 'Manual Case']}], 'Dus41_Tdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml': [{'LTE00106537_UETPT_DUS41_TDD_UDP_DL_CAT4_20Mhz_SF1_TM3_SSF7_CFI0': ['LTE00106537', '79', '76', 96.0, 'NBV-test_main']}, {'LTE00098877_Peak_User_Throughput_TDD_DUS41_-_1UE_UDP_DL2x2_20MHz_CAT3_CFG17': ['LTE00098877', '90', '76', 84.0, 'NBV-test_main']}, {'LTE00100517_Peak_User_Throughput_TDD_DUS41_-_1UE_TCP_DL2x2_20MHz_CAT4_CFG17': ['LTE00100517', '93', '77', 83.0, 'NBV-test_main']}], 'Dus41_Fdd_Antenna2x2_ChannelDirect_UeMueTm500-PeakUserThroughput20Mhz.xml': [{'LTE00094060_Peak_User_Throughput_FDD_DUS41_-_UDP_DL2x2_20MHz_CAT4': ['LTE00094060', '99', '87', 88.0, 'BDC-test-JCAT_main']}, {'LTE00243687_Peak_User_Throughput_FDD_DUS41_-_UDP_UL1x2_20MHz_CAT3': ['LTE00243687', '49', '35', 71.0, 'Manual Case']}], 'Dus41_Fdd_Antenna2x2_ChannelDirect_UeSue-RoundTripTimeRrcConnected.xml': [{'LTE00094047_Latency_FDD_DUS41_1UE_Ping1436-UL1x2_10MHz': ['LTE00094047', '100', '99', 99.0, 'NBV-test_main']}]}
+---------------------------------------------------------------------------------------------------------
+ |          caseName  |       TotalCaseNo  |            PassNo  |         Pass Rate  |      Trigger Loop |
+ |       LTE00109027  |                33  |                 8  |              24.0  |       Manual Case |
+ |       LTE00166265  |                41  |                31  |              76.0  |       Manual Case |
+ |       LTE00106537  |                79  |                76  |              96.0  |     NBV-test_main |
+ |       LTE00098877  |                90  |                76  |              84.0  |     NBV-test_main |
+ |       LTE00100517  |                93  |                77  |              83.0  |     NBV-test_main |
+ |       LTE00094060  |                99  |                87  |              88.0  |BDC-test-JCAT_main |
+ |       LTE00243687  |                49  |                35  |              71.0  |       Manual Case |
+ |       LTE00094047  |               100  |                99  |              99.0  |     NBV-test_main |
+---------------------------------------------------------------------------------------------------------
