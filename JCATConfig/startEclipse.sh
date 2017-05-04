@@ -5,8 +5,8 @@
 
 #define the modules which need to be added.
 #if there is some more modules needed, just add it/them at this place
-set JDK="jdk/1.7.0_99"
-set EECS="eecs/4.5.2"
+set JDK="jdk/1.8.0_92"
+set EECS="eecs/4.6.2"
 set GIT="git/2.7.4"
 set MAVEN="maven/3.3.9"
 set UNZIP="unzip/6.0"

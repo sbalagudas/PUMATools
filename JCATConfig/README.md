@@ -58,8 +58,8 @@ there is only one more thing need to consider : import the MJE properties to you
 Problem : HOW TO REGISTER TO GERRIT
 Solution : Actually, this is a secure machanism in GIT. if you want to clone the code from GIT, you should make the GIT server knows who you are. A good way is register your SSH-KEY to the GIT server. 
 	1. Check whether your own SSH-KEY is generated. [ ls ~/.ssh/ to see if there is a file named id_rsa.pub ]
-        2. If not such a id_rsa.pub file, please execute [ ssh-keygen -t rsa and following coupole of ENTER, two files will be generated id_rsa.pub and id_rsa ] 
-        3. Now you have get your own SSH-KEY, open the link : [ https://gerrit.ericsson.se/#/q/status:open ], sign in and go to settings -> SSH Public Keys -> Add Key
+        2. If no such a id_rsa.pub file, please execute [ ssh-keygen -t rsa and following coupole of ENTER, two files will be generated id_rsa.pub and id_rsa ] 
+        3. Now you have your own SSH-KEY, open the link : [ https://gerrit.ericsson.se/#/q/status:open ], sign in and go to settings -> SSH Public Keys -> Add Key
 	4. Copy the id_rsa.pub content and paste it into the page. Click Add. Now you are registered into the GERRIT. 
 -------------------------------------
 Problem : How to deal with the problem when you can't use < module > command 
