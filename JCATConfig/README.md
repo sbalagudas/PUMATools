@@ -40,7 +40,8 @@ After you have done the steps above, you can ;
 	4. After you opened the Eclispe, please do some configuration before you import the Maven Project.
 	please refer to the page [ https://wiki.lmera.ericsson.se/wiki/DURA_JCAT_Wiki/Environment#Eclipse_plugins_installation ]
         When completed the Eclipse configuration, import the project you just cloned in folder [ /home/yourname/git/msran-test-performance File -> Import -> Maven -> Existing Maven Projects ]. 
-	5. The Eclipse will import the Maven dependencies and java resources, just wait for a few minutes. (you can see the progress and details at the right-bottom)
+        5. install the Eclipse plugin < Common Preference for DURA > with version 3.03.
+	6. The Eclipse will import the Maven dependencies and java resources, just wait for a few minutes. (you can see the progress and details at the right-bottom)
 	
 
 ###################################
